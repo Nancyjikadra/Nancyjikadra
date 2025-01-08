@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nancy</h1>
 <h3 align="center">A passionate AI-ML Engineer from India</h3>
 
-- 🔭 I’m currently working on [3d simulation of stellar objects.](https://github.com/Nancyjikadra/shadow_simulation)
+- 🔭 I’m currently working on [AskSphere.](https://github.com/Nancyjikadra/AskSphere)
 
 - ⚡ Fun fact **3 time n 1 space exists**
 
