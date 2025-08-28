@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nancy jikadra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nancy jikadra" height="30" width="40" /></a>
+<a href="[[https://linkedin.com/in/nancy prajapati](https://www.linkedin.com/in/nancy-prajapati-6b6980247/)](https://www.linkedin.com/in/nancy-prajapati-6b6980247/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nancy jikadra" height="30" width="40" /></a>
 <a href="https://kaggle.com/nancyjikadra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nancyjikadra" height="30" width="40" /></a>
 </p>
 
